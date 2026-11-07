@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 data/*.csv
+blog.qmd
 blog.html
 blog_files/
 .quarto/
